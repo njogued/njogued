@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm njogued</h1>
 <h3 align="center">at ALX</h3>
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="600" height="300"/>
 </div>
 
