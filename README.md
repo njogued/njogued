@@ -18,3 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njogued&theme=github_dark" alt="njogued" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njogued&theme=github_dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=njogued&label=Profile%20views&color=0e75b6&style=flat" alt="njogued" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njogued" alt="njogued" /></a> </p>
