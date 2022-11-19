@@ -1,12 +1,12 @@
  <h1 align="center">Hi 👋, I'm njogued</h1>
-<h3 align="center">at ALX</h3>
+<h3 align="center">learning at ALX</h3>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="460" height="338"/>
 </div>
 
 - 🔭 I’m currently working on **ALX projects**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 </p>
 
