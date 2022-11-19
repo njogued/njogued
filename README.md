@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm njogued</h1>
 <h3 align="center">learning at ALX</h3>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="646" height="530"/>
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="500" height="410"/>
 </div>
 
 - 🔭 I’m currently working on **ALX projects**
