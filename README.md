@@ -3,11 +3,11 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="500" height="410"/>
 </div>
-```
+
 - 🔭 I’m currently working on **ALX projects**
 
 - 🌱 I’m currently learning **Python**
-```
+
 
 
 </p>
