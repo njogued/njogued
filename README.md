@@ -18,6 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njogued&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njogued&theme=github_dark" alt="njogued" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=njogued&theme=github_dark")
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njogued&theme=github_dark)
