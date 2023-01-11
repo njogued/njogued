@@ -18,8 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=njogued&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=njogued&theme=github_dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=njogued&theme=github_dark" alt="njogued" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=njogued&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njogued&theme=github_dark)
