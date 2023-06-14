@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ALX projects**
 
-- 🌱 I’m currently learning **HTML/CSS**
+- 🌱 I’m currently learning **JS**
 
 
 
