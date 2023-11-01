@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Backend Dev</h3>
 
-- 🔭 I’m currently working on [Django Web App](https://github.com/njogued/servlist-web-App)
+- 🔭 I’m currently working on: [Find Out Here](https://njogued.me/#projects)
 
-- 🌱 I’m currently learning **NodeJS, React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking to collaborate on **Django/Flask projects**
 
-- 🤝 I’m looking for help with **JS projects**
+- 🤝 I’m looking for help with **JS projects & AI projects**
 
 - 💬 Ask me about **Python**
 
