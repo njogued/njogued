@@ -18,4 +18,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=njogued&theme=highcontrast" alt="GitHub Streak" /></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njogued&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njogued&theme=github_dark) 
+
+[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)
+
