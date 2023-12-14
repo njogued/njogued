@@ -20,5 +20,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=njogued&theme=github_dark) 
 
-[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/kenya/njogued.svg)](https://user-badge.committers.top/kenya/njogued)
 
