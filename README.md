@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Find Out Here](https://njogued.me/#projects)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Django/Flask projects**
 
