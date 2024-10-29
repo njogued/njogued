@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">Backend Dev</h3>
 
-- 🔭 I’m currently working on: [Find Out Here](https://njogued.me/#projects)
+- 🔭 I’m currently working on: [Find Out Here](https://njogued.github.io/#projects)
 
 - 🌱 I’m currently learning **React JS**
 
